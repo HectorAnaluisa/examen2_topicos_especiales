@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "855756896112",
+    "firebase_url": "https://examentopicos.firebaseio.com",
+    "project_id": "examentopicos",
+    "storage_bucket": "examentopicos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855756896112:android:4c02411766aef08e9e81b5",
+        "android_client_info": {
+          "package_name": "com.example.examen_topicos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855756896112-ajbb5r2nqa028qflt66edtj5r7idcbqj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.examen_topicos",
+            "certificate_hash": "8f941a916b53d3a015d7f82a8d4704f7eb4de69d"
+          }
+        },
+        {
+          "client_id": "855756896112-2a1ijq1v9rol5flnvlhn9sb28b0je1at.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFq9KknokgNKTlVnkPbtV9DJxa-ZUfTjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855756896112-2a1ijq1v9rol5flnvlhn9sb28b0je1at.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
