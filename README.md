@@ -1,6 +1,6 @@
 # Examen Tópicos Especiales
 
-## APP Desarrollada en FLUTTER
+## APP Autentificación Firebase / Consumo API Clima (Flutter)
 
 El actual repositorio muestra, una apliación que usa los servicios de Backend que ofrece Firebase, además del cosumo de una API que se encuentra en el siguiente enlace : https://openweathermap.org/ En el repositorio tambien se encuentran temas como diseño de Cajas de texto, uso de directorios en Flutter, apliacion de Widgets entre otros. 
 
