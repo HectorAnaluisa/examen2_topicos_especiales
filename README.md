@@ -6,8 +6,8 @@ El actual repositorio muestra, una apliación que usa los servicios de Backend q
 
 ### Requisitos
 
-Tener previamente instalado Flutter y sus demas complementos
-Tener una cuenta tanto en Open Weather Map y en Firebase
+* Tener previamente instalado Flutter y sus demas complementos
+* Tener una cuenta tanto en Open Weather Map y en Firebase
 
 ### Desarrollo Flutter
 
